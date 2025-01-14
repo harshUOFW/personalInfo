@@ -1,24 +1,80 @@
-<h2> Hey there! I'm Harsh Panchal.
-<h3> 👨🏻‍💻 About Me </h3>
+<h1 align="center">Hi, I'm Harsh Panchal! 👋</h1>
+<p align="center">
+  <b>Passionate Applied Computer Science Student | Aspiring Software Engineer</b>
+</p>
+<p align="center">
+  📍 From University of Winnipeg to the University of Manitoba (CGPA: 3.86)  
+</p>
 
-- 🔭 &nbsp; I’m currently learning and building expertise in Applied Computer Science.
-- 🤔 &nbsp; Exploring new technologies and working on innovative projects.
-- 🎓 &nbsp; Studying topics such as web development, database management, software engineering, and advanced problem-solving.
-- 💼 &nbsp; Experienced in Java programming with growing skills in cybersecurity and algorithms.
-- 🌱 &nbsp; Passionate about contributing to impactful projects in technology.
-- ✍️ &nbsp; Enjoy working on personal projects, collaborating in team environments, and refining my craft.
+---
 
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<h3>🛠 Tech Stack</h3>
+## 📝 About Me  
 
-- 💻 &nbsp; Java | Python | HTML | CSS | JavaScript  
-- 🌐 &nbsp; Web Development | Software Engineering | Cybersecurity 
-- 🛢 &nbsp; MySQL | Database Management | DBMS
-- 🔧 &nbsp; Visual Studio Code | IntelliJ IDEA | Git | Eclipse
-- 🖥 &nbsp; Design and Presentation Tools: Canva | Figma 
+- 👨‍🎓 **Education:**  
+  Currently pursuing Applied Computer Science at the **University of Manitoba** after transferring from the **University of Winnipeg**, where I was recognized on the Dean's Honour List with a CGPA of **3.86**.  
 
+- 🌱 **Areas of Focus:**  
+  - Programming (Java, Python, C++)  
+  - Full-Stack Web Development (HTML, CSS, JavaScript, MongoDB)  
+  - Database Management (SQL, MongoDB Atlas)  
+  - Advanced Computing (Computer Architecture, Binary Systems)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-panchal&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/harsh-panchal/github-readme-stats)
+- 💡 **Interests:**  
+  - Exploring **cybersecurity** and **AI applications**.  
+  - Developing scalable software solutions.  
+  - Building efficient algorithms and problem-solving tools.  
 
+- 🎯 **Goal:**  
+  Seeking opportunities to apply my technical skills in an **internship** or **collaborative project**, contributing to meaningful technological advancements.  
 
-⭐️ From [Harsh Panchal](https://github.com/harsh-panchal)
+---
+
+## 🛠 Technical Skills  
+
+### Programming Languages  
+- **Java** | **Python** | **C++** | **JavaScript** | **SQL**  
+
+### Web Development  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** MongoDB, MongoDB Atlas, SQL  
+
+### Tools & Frameworks  
+- **Database Management:** SQL, MySQL, MongoDB  
+- **Software Tools:** Visual Studio Code, IntelliJ IDEA, Git, Eclipse  
+- **Version Control:** Git, GitHub  
+
+### Advanced Topics  
+- **Computer Architecture**: Binary Language, Processor Design  
+- **Problem Solving**: Data Structures, Algorithms  
+
+---
+
+## 📈 My GitHub Stats  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Panchal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh Panchal's Github Stats">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Panchal&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Harsh-Panchal/github-readme-stats)
+
+---
+
+## 🤝 Let's Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-panchal/" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:harshppanchal21@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Harsh-Panchal" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+⭐️ From [Harsh Panchal](https://github.com/Harsh-Panchal)
